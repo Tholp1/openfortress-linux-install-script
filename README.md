@@ -1,4 +1,4 @@
-#[OBSOLETE]
+# [OBSOLETE]
 
 # openfortress-linux-install-script
 does what it says on the tin ( and updating)
